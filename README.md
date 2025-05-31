@@ -18,10 +18,16 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+![31](https://github.com/user-attachments/assets/53fd5682-5a32-4c4b-8975-ec1b5a3109b8)
+
+![32](https://github.com/user-attachments/assets/05c262c8-3e4c-46b4-b42c-7b19ef1cffdc)
 
 
-## Program:
-```
+
+## Program
+```C
+Developed by :Rishi Keerthi K
+Register number : 212222043007
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
@@ -55,9 +61,10 @@ else:
 print("--------------------------------------------------------------")
 ```
 
+
 ## Output :
-![EXP 5](https://github.com/user-attachments/assets/df280c9c-c250-4c53-b4c8-98f6c80991cd)
+![33](https://github.com/user-attachments/assets/a2d64073-d2cb-407a-80d3-974092c6b968)
+
 
 ## Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
-
